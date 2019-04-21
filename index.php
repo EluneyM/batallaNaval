@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Bootstrap 4, from LayoutIt!</title>
+    <title>Batalla Naval</title>
 
     <meta name="description" content="Source code generated using layoutit.com">
     <meta name="author" content="LayoutIt!">
@@ -20,7 +20,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h3>
-				h3. Lorem ipsum dolor sit amet.
+				Batalla Naval
 			</h3>
 		</div>
 	</div>
