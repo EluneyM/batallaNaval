@@ -51,10 +51,10 @@
 		<div class="col-md-12">
 			<div class="row">
 				<div class="col-md-6">
-                                    <img class="tablero" alt="Bootstrap Image Preview" src="img/tablero.png">
+					<img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg">
 				</div>
 				<div class="col-md-6">
-                                    <img class="tablero" alt="Bootstrap Image Preview" src="">
+					<img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg">
 				</div>
 			</div>
 		</div>
@@ -155,8 +155,21 @@
 					</table>
 				</div>
 				<div class="col-md-6">
-					
-                                </div>
+					<form role="form">
+						<div class="form-group">
+							 
+							<label for="exampleInputEmail1">
+								Coordenadas
+							</label>
+							<input type="email" class="form-control" id="exampleInputEmail1">
+						</div>
+						<div class="checkbox">
+						</div> 
+						<button type="submit" class="btn btn-primary">
+							Disparar
+						</button>
+					</form>
+				</div>
 			</div>
 		</div>
 	</div>
